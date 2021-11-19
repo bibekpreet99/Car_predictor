@@ -22,7 +22,7 @@ def home():
         model = pickle.load(open('car.pkl', "rb"))
         fueld = 0
         manu = int(request.form.get('manu'))
-        manu = 2021 - manu
+        # manu = 2021 - manu
         price = float(request.form.get('price'))
         dist = int(request.form.get('dist'))
         dist = np.log(dist)
