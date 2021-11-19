@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    
+}
+form{
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.mycont{
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    flex-direction: column;
+}
+
+input, select, button{
+    margin-top: 50px;
+}
