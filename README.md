@@ -10,6 +10,13 @@ Stack Used
 ### Live Link
 https://car-pr3dictor.herokuapp.com/
 
+### Screenshots
+![one](screenshots/pic1.png)
+![one](screenshots/pic3.png)
+
+#### Result
+![one](screenshots/pic2.png)
+
 ### Novelty
 1. Simple and easy User Interface.
 2. Result is displayed instantly.
