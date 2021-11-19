@@ -4,8 +4,9 @@
 This website uses a trained car predictor model to predcit the price of the car using Random Forest classifier
 Stack Used
 1. Flask
-2. OpenCV
+2. Sklearn
 3. HTML/CSS
+4. Random Forest Classifier
 
 ### Live Link
 https://car-pr3dictor.herokuapp.com/
