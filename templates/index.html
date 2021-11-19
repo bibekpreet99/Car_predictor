@@ -16,13 +16,13 @@
     {% endif %}
     <form action="/" method="post" class="container mycont">
         <h3>Enter the Year of Manufacturing</h3>
-        <input name="manu" />
+        <input required name="manu" />
         <h3>Enter the price bought at (in Lakhs)</h3>
-        <input name="price"  />
+        <input required name="price"  />
         <h3>Total distance travelled (in KMs)</h3>
-        <input name="dist"/>
+        <input required name="dist"/>
         <h3>No. of owners who have previously owned it</h3>
-        <input name="own"  />
+        <input required name="own"  />
         <h3>Fuel type</h3>
         <select name="fuel">
             <option>Petrol</option>
